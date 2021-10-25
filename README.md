@@ -24,7 +24,7 @@ This is a repository for me to display and share some simple python3 offensive t
                   so all the network traffic is coming through ou machine, so we can sniff it and analyze it.
        ## Usage:  
      
-           `python3 ArpSpoofer.py <Target IP> <Router IP>`
+           `python3 ArpSpoofer.py <Router IP> <Target IP>`
                   
  
  * hashCrack.py - a very fast and reliable hash cracking tool for MD5, SHA1, SHA256, SHA224, SHA224, SHA512
