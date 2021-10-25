@@ -29,6 +29,6 @@ This is a repository for me to display and share some simple python3 offensive t
  
  * hashCrack.py - a very fast and reliable hash cracking tool for MD5, SHA1, SHA256, SHA224, SHA224, SHA512
         
-       ## Usage:  
+      ## Usage:  
        
                  `python3 hashCrack.py <hash type> <wordlist> <target hash>`
