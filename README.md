@@ -15,3 +15,5 @@ This is a repository for me to display and share some simple python3 offensive t
   * ArpSpoof.py - as its name suggest, it's an arp spoofer, we use the Scapy library in order to modify
                   the ARP packets in order to poisen the arp table of the router and the target for example,
                   so all the network traffic is coming through ou machine, so we can sniff it and analyze it.
+                  
+  * hashCrack.py - a very fast and reliable hash cracking tool for MD5, SHA1, SHA256, SHA224, SHA224, SHA512
