@@ -8,7 +8,7 @@ This is a repository for me to display and share some simple python3 offensive t
                    the user gets the option to run a Threaded Brute force attack.
        ## Usage:  
        
-         `python3 Pscan_SSH.py`   # then you will get prompt for arguments.
+         `python3 Pscan_SSH.py`   # then you will be prompt for the arguments.
                  
    
   * PasswordSniffer.py - this tool is to be used with a MITM attack. 
