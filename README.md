@@ -6,17 +6,28 @@ This is a repository for me to display and share some simple python3 offensive t
   * Pscan_SSH.py - a port scanner that scan the ports randomly and in random times.
                    its checks if port 22 (SSH) is in the open ports and if it is than
                    the user gets the option to run a Threaded Brute force attack.
+       ## Usage:  
+       
+                 `python3 Pscan_SSH.py`   # then you will get prompt for arguments.
+                 
    
   * PasswordSniffer.py - this tool is to be used with a MITM attack. 
                          it searches through the sniffed packet's and
                          searches to see if they contain any credentials.
-                         
+       ## Usage:  
+       
+                 `python3 PasswordSniffer.py`                  
+  
   
   * ArpSpoof.py - as its name suggest, it's an arp spoofer, we use the Scapy library in order to modify
                   the ARP packets in order to poisen the arp table of the router and the target for example,
                   so all the network traffic is coming through ou machine, so we can sniff it and analyze it.
+       ## Usage:  
+     
+                 `python3 ArpSpoofer.py <Target IP> <Router IP>`
                   
-  * hashCrack.py - a very fast and reliable hash cracking tool for MD5, SHA1, SHA256, SHA224, SHA224, SHA512
+ 
+ * hashCrack.py - a very fast and reliable hash cracking tool for MD5, SHA1, SHA256, SHA224, SHA224, SHA512
         
        ## Usage:  
        
