@@ -32,3 +32,10 @@ This is a repository for me to display and share some simple python3 offensive t
       ## Usage:  
        
             `python3 hashCrack.py <hash type> <wordlist> <target hash>`
+  
+ * BruteWifi.py - a simple Wifi password brute forcer.
+        
+      ## Usage:  
+       
+            `BruteWifi.py <Wifi name (ssid)> <wordlist>`
+
