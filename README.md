@@ -8,7 +8,7 @@ This is a repository for me to display and share some simple python3 offensive t
                    the user gets the option to run a Threaded Brute force attack.
        ## Usage:  
        
-                 `python3 Pscan_SSH.py`   # then you will get prompt for arguments.
+         `python3 Pscan_SSH.py`   # then you will get prompt for arguments.
                  
    
   * PasswordSniffer.py - this tool is to be used with a MITM attack. 
@@ -16,7 +16,7 @@ This is a repository for me to display and share some simple python3 offensive t
                          searches to see if they contain any credentials.
        ## Usage:  
        
-                 `python3 PasswordSniffer.py`                  
+          `python3 PasswordSniffer.py`                  
   
   
   * ArpSpoof.py - as its name suggest, it's an arp spoofer, we use the Scapy library in order to modify
@@ -24,11 +24,11 @@ This is a repository for me to display and share some simple python3 offensive t
                   so all the network traffic is coming through ou machine, so we can sniff it and analyze it.
        ## Usage:  
      
-                 `python3 ArpSpoofer.py <Target IP> <Router IP>`
+           `python3 ArpSpoofer.py <Target IP> <Router IP>`
                   
  
  * hashCrack.py - a very fast and reliable hash cracking tool for MD5, SHA1, SHA256, SHA224, SHA224, SHA512
         
       ## Usage:  
        
-                 `python3 hashCrack.py <hash type> <wordlist> <target hash>`
+            `python3 hashCrack.py <hash type> <wordlist> <target hash>`
