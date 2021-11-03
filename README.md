@@ -84,7 +84,7 @@ This is a repository for me to display and share some simple python3 offensive t
     
    ### Once you have multiple sessions you can see them with the `targets` command and interact with each session with the command:
         `session <session ID>`
-  * Type '?' to see the commands and features that are avalible.
+  * Type `?` to see the commands and features that are avalible.
     
   ### The project is still in working progress and will hopefully update every so often.
    
