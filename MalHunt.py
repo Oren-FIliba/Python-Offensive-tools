@@ -1,7 +1,5 @@
 import requests
 import json
-
-
 RED, REGULAR, GREEN, YELLOW = '\33[31m', '\33[37m', '\33[32m', '\33[33m'
 
 message = input(f"{YELLOW}\nHash, IP or Domain name?  {REGULAR}")[0].lower()
@@ -9,7 +7,7 @@ vt_api_key = "452b238d40cd7534a5a6478b3df82d6562e3509b9b83e46cf92ce881ccf51046"
 
 if message == "h":
     hash_type = input(f"{YELLOW}hash type: {REGULAR}".lower())
-    hash = "0e80d33ced80e0ad76f7784563699d7afc8c78d0cb4d146112850b2b76ac8936"
+    hash = input(f"{YELLOW}Hash: {REGULAR}")
 
 
     Virus_total_hash = "https://www.virustotal.com/vtapi/v2/file/report"
