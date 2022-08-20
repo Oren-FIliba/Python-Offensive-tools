@@ -1,5 +1,5 @@
 # Python3-Offensive-Tools
-This is a repository for me to display and share some Pyhon offensive\defensive tools that I built.
+This is a repository for me to display and share some Python offensive\defensive tools that I built.
 
 ## The Tools:
   
